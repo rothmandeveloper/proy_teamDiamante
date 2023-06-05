@@ -1,0 +1,15 @@
+1.- Conexion a la BD
+2.- Modelo hace consulta a la BD
+3.- Controlador Recibe variables del Front para conectar con la BD
+	y llama al modelo para ver que responde...!!
+---------------------------------------
+NOTAS IMPORTANTES:
+
+1.- EN EL MANUAL DE LOS VIDEOS LA FUNCION ctrIngresoUsuario, conectar, mdlMostrarUsuarios, no le anteponen stetic por eso causa el error y no puede avanzar en este caso nosotros se lo pusimos y jalo!!!  
+
+TODO LO DEMAS SEGURLO AL PIE DE LA LETRA TODO OK..!!
+
+2.- tambien el os warning manegalor y desactivarlos!!
+
+
+

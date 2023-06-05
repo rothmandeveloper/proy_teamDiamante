@@ -1,0 +1,29 @@
+1.- Se crean todo el MVC
+2.- Se crea el Login con BD
+
+CREATE TABLE `pos`.`usuarios` (`id` INT NOT NULL AUTO_INCREMENT, `nombre` TEXT NOT NULL , `usuario` TEXT NOT NULL , `password` TEXT NOT NULL , `perfil` TEXT NOT NULL , `foto` TEXT NOT NULL , `estado` INT NOT NULL , `ultimo_login` DATETIME NOT NULL , `fecha` TIMESTAMP NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
+
+
+INSERT INTO `usuarios` (`id`, `nombre`, `usuario`, `password`, `perfil`, `foto`, `estado`, `ultimo_login`, `fecha`) VALUES (NULL, '\'Usuario Administrador', 'admin', 'admin123', 'Administrador', '', '1', '', current_timestamp());
+
+https://www.000webhost.com/
+user: soporteak471@gmail.com
+pass: R0thm4n3399$
+----------
+--- creando aplicativo ---
+rothsoftpc
+D3SO4jPSPk4gzS!Ayxaj
+-----------------
+BD: POS
+user: rothman
+pass: ER<TvGmpKhZL6NHO
+--------------------
+Nombre de la base de datos: id20277256_pos
+Usuario de base de datos: id20277256_rothman
+Host de base de datos: servidor local
+
+--- admin php admin -----
+https://databases-auth.000webhost.com/index.php
+
+----------- COMANDOS DE GIT --------------
+$ git init (es como decirle a este pryecto que vamos a empezar a usar Git)
